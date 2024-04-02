@@ -10,6 +10,7 @@
 - personal
   - [homepage](https://github.com/xiaochuany/omega)
   - [blog](https://github.com/xiaochuany/1principle)
+  - [exercise](https://github.com/xiaochuany/exercise)
 - presentation
   - [polytopes-slides](https://github.com/xiaochuany/polytopes-slides)
   
