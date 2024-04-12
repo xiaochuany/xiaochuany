@@ -4,13 +4,13 @@
   - [geography](https://github.com/xiaochuany/geography)
   - [nextval](https://github.com/xiaochuany/nextval)
   - [playgrounds](https://github.com/xiaochuany/playgrounds)
+  - [exercise](https://github.com/xiaochuany/exercise)
 - teaching repos
   - [MA2608](https://github.com/xiaochuany/MA2608)
   - [MA3609](https://github.com/xiaochuany/MA3609)
 - personal
   - [homepage](https://github.com/xiaochuany/omega)
   - [blog](https://github.com/xiaochuany/1principle)
-  - [exercise](https://github.com/xiaochuany/exercise)
 - presentation
   - [polytopes-slides](https://github.com/xiaochuany/polytopes-slides)
   
