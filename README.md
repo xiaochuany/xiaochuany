@@ -3,7 +3,7 @@
 - machine learning projects
   - [geography](https://github.com/xiaochuany/geography)
   - [nextval](https://github.com/xiaochuany/nextval)
-  - [playgrounds](https://github.com/xiaochuany/playgrounds)
+  - [playground](https://github.com/xiaochuany/playground)
   - [exercise](https://github.com/xiaochuany/exercise)
 - teaching repos
   - [MA2608](https://github.com/xiaochuany/MA2608)
