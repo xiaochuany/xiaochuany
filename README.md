@@ -5,6 +5,7 @@
   - [nextval](https://github.com/xiaochuany/nextval)
   - [playground](https://github.com/xiaochuany/playground)
   - [exercise](https://github.com/xiaochuany/exercise)
+  - [min-sklearn](https://github.com/xiaochuany/min-sklearn)
 - teaching repos
   - [MA2608](https://github.com/xiaochuany/MA2608)
   - [MA3609](https://github.com/xiaochuany/MA3609)
