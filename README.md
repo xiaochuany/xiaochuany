@@ -8,7 +8,7 @@
   - [min-sklearn](https://github.com/xiaochuany/min-sklearn)
 - teaching repos
   - [MA2608](https://github.com/xiaochuany/MA2608)
-  - [MA3609](https://github.com/xiaochuany/MA3609)
+  - [MA3619](https://github.com/xiaochuany/MA3619)
 - personal
   - [homepage](https://github.com/xiaochuany/omega)
   - [blog](https://github.com/xiaochuany/1principle)
