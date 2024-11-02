@@ -3,6 +3,8 @@
 some projects I've been playing with 🔭
 
 - machine learning projects
+  - [archette](https://github.com/xiaochuany/archette)
+  - [arx](https://github.com/xiaochuany/arx)
   - [geography](https://github.com/xiaochuany/geography)
   - [nextval](https://github.com/xiaochuany/nextval)
   - [playground](https://github.com/xiaochuany/playground)
