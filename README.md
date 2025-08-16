@@ -5,7 +5,7 @@ some selected projects
 - built from scratch  
   - [archette](https://github.com/xiaochuany/archette): GARCH model    
   - [arxette](https://github.com/xiaochuany/arxette): ARX model   
-  - [geography](https://github.com/xiaochuany/geography): Connectivity of random geometric graphs  
+  - [geography](https://github.com/xiaochuany/geography): connectivity of random geometric graphs  
   - [nextval](https://github.com/xiaochuany/nextval): next value prediction using GPT architecture  
   - [min-sklearn](https://github.com/xiaochuany/min-sklearn): mini subset of sklearn  
 - teaching 
