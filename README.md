@@ -2,9 +2,9 @@
 
 some projects I've been tinkering with
 
--  projects  
-  - [archette](https://github.com/xiaochuany/archette): GARCH model from scratch  
-  - [arxette](https://github.com/xiaochuany/arxette): ARX model from scratch
+-  built from scratch   
+  - [archette](https://github.com/xiaochuany/archette): GARCH model  
+  - [arxette](https://github.com/xiaochuany/arxette): ARX model 
   - [geography](https://github.com/xiaochuany/geography): Connectivity of random geometric graphs
   - [nextval](https://github.com/xiaochuany/nextval): next value prediction using GPT architecture
   - [min-sklearn](https://github.com/xiaochuany/min-sklearn): mini subset of sklearn
