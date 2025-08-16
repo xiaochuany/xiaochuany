@@ -2,7 +2,7 @@
 
 some projects I've been tinkering with
 
--  projects
+-  projects  
   - [archette](https://github.com/xiaochuany/archette): GARCH model from scratch  
   - [arxette](https://github.com/xiaochuany/arxette): ARX model from scratch
   - [geography](https://github.com/xiaochuany/geography): Connectivity of random geometric graphs
