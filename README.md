@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-some selected projects 
+I'm quantitative analyst and ex-academic mathematician. Below are some selected projects of mine. 
 
 - built from scratch  
   - [archette](https://github.com/xiaochuany/archette): GARCH model    
