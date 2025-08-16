@@ -2,12 +2,12 @@
 
 some projects I've been tinkering with
 
--  built from scratch   
-  - [archette](https://github.com/xiaochuany/archette): GARCH model  
-  - [arxette](https://github.com/xiaochuany/arxette): ARX model 
-  - [geography](https://github.com/xiaochuany/geography): Connectivity of random geometric graphs
-  - [nextval](https://github.com/xiaochuany/nextval): next value prediction using GPT architecture
-  - [min-sklearn](https://github.com/xiaochuany/min-sklearn): mini subset of sklearn
+-  built from scratch  
+  - [archette](https://github.com/xiaochuany/archette): GARCH model    
+  - [arxette](https://github.com/xiaochuany/arxette): ARX model   
+  - [geography](https://github.com/xiaochuany/geography): Connectivity of random geometric graphs  
+  - [nextval](https://github.com/xiaochuany/nextval): next value prediction using GPT architecture  
+  - [min-sklearn](https://github.com/xiaochuany/min-sklearn): mini subset of sklearn  
 - teaching 
   - [MA2608](https://github.com/xiaochuany/MA2608)
   - [MA3619](https://github.com/xiaochuany/MA3619)
