@@ -13,7 +13,7 @@ I'm quantitative analyst and ex-academic mathematician. Below are some selected 
   - [MA3619](https://github.com/xiaochuany/MA3619): final year project proposals
 - personal
   - [homepage](https://github.com/xiaochuany/omega)
-  - [etudes](https://github.com/xiaochuany/etudes)
+  - [etudes](https://github.com/xiaochuany/etudes): fun exercise, apps, one-off scripts etc
   - [blog](https://github.com/xiaochuany/blog)
   - [blog (legacy)](https://github.com/xiaochuany/1principle)
 - academic talk
