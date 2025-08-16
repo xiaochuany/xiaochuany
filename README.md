@@ -2,13 +2,12 @@
 
 some projects I've been tinkering with
 
-- machine learning projects
-  - [archette](https://github.com/xiaochuany/archette)
-  - [arxette](https://github.com/xiaochuany/arxette)
-  - [geography](https://github.com/xiaochuany/geography)
-  - [nextval](https://github.com/xiaochuany/nextval)
-  - [playground](https://github.com/xiaochuany/playground)
-  - [min-sklearn](https://github.com/xiaochuany/min-sklearn)
+-  projects
+  - [archette](https://github.com/xiaochuany/archette): GARCH model from scratch  
+  - [arxette](https://github.com/xiaochuany/arxette): ARX model from scratch
+  - [geography](https://github.com/xiaochuany/geography): Connectivity of random geometric graphs
+  - [nextval](https://github.com/xiaochuany/nextval): next value prediction using GPT architecture
+  - [min-sklearn](https://github.com/xiaochuany/min-sklearn): mini subset of sklearn
 - teaching 
   - [MA2608](https://github.com/xiaochuany/MA2608)
   - [MA3619](https://github.com/xiaochuany/MA3619)
