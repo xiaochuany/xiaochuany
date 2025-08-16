@@ -9,8 +9,8 @@ some selected projects
   - [nextval](https://github.com/xiaochuany/nextval): next value prediction using GPT architecture  
   - [min-sklearn](https://github.com/xiaochuany/min-sklearn): mini subset of sklearn  
 - teaching 
-  - [MA2608](https://github.com/xiaochuany/MA2608)
-  - [MA3619](https://github.com/xiaochuany/MA3619)
+  - [MA2608](https://github.com/xiaochuany/MA2608): mathematics of deep learning
+  - [MA3619](https://github.com/xiaochuany/MA3619): final year project proposals
 - personal
   - [homepage](https://github.com/xiaochuany/omega)
   - [etudes](https://github.com/xiaochuany/etudes)
